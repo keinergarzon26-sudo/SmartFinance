@@ -1,0 +1,6 @@
+{
+  "name": "Finanzas Personales",
+  "description": "Un gestor de finanzas personales fuera de línea con seguimiento de ingresos, gastos, deudas, ahorros, metas, presupuestos personalizados, gráficos dinámicos e indicadores financieros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
